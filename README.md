@@ -1,7 +1,7 @@
  ## Olá!! Eu sou o Guilherme façanha
 
-- 🔭 Ainda não trabalho na área, mas sua apaixonado por tecnologia
-- 🌱 Estou estudando ADS
+- 🔭 Ainda não trabalho na área, mas sou apaixonado por tecnologia.
+- 🌱 Estou estudando ADS.
 
 <div align="center">
   <a href="https://github.com/guilherme-CF">
