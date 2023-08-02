@@ -1,7 +1,8 @@
 # Olá!! Eu sou o Guilherme  Façanha
 
-- 🔭 Ainda não trabalho na área, mas sou apaixonado por tecnologia.
-- 🌱 Estou estudando ADS.
+- 🔭 Sou apaixonado por tecnologia.
+- 🎯 Estou estudando Análise e Desenvolvimento de Sistemas.
+- 🌱 Almejo ser um programador Full Stack confiável.
 
 <div align="center">
   <a href="https://github.com/guilherme-CF">
