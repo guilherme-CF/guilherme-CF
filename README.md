@@ -2,7 +2,7 @@
 
 - 🔭 Sou apaixonado por tecnologia.
 - 🎯 Estou estudando Análise e Desenvolvimento de Sistemas.
-- 🌱 Almejo ser um programador Full Stack confiável.
+- 🌱 Almejo ser um programador Front-end confiável.
 
 <div align="center">
   <a href="https://github.com/guilherme-CF">
